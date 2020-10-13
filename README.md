@@ -4,7 +4,7 @@ Revisión de Regresión Lineal, Regresión Logística y Redes Neuronales
 
 ## Recursos de la clase:
 
-- :clapper: [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQLz8Diqq2u8K9ffhiHAawUx8w0oBtWR47-z2QTV55trY4-KHY1FX4_YP6YAp3MQE0EFrrIFJw8c1dW/pub?start=false&loop=false&delayms=30000&slide=id.g8c1d7a0b92_0_131)
+- :clapper: [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQLz8Diqq2u8K9ffhiHAawUx8w0oBtWR47-z2QTV55trY4-KHY1FX4_YP6YAp3MQE0EFrrIFJw8c1dW/pub?start=false&loop=false&delayms=30000#slide=id.p)
 - :notebook: [Regresión Lineal](https://colab.research.google.com/drive/1TX80N1eaz2J2eKr1thIXUFtFvSRIOc2Y?usp=sharing)
 - :notebook: [Redes Neuronales](https://colab.research.google.com/drive/1czI66gnRU-PGvGwORpAclZgmyxODOBwX?usp=sharing)
 
