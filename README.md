@@ -1,6 +1,6 @@
 # Intro-to-ML-Regression-Models
 
-Revisión de Regresión Lineal, Regresión Logística y Redes Neuronales
+Revisión de [Regresión Lineal, Regresión Logística](Regresión_Lineal.ipynb) y [Redes Neuronales](NN_MNIST.ipynb)
 
 ## Recursos de la clase:
 
